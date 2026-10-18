@@ -124,5 +124,5 @@ It also ends with a live prediction for a new applicant (approve / reject + conf
 ---
 
 ## Author
-Tanvir Rahman Anik
+Tanvir Rahman Anik,
 Machine Learning Intern @ CodeAlpha
